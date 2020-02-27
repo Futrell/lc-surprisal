@@ -1,7 +1,7 @@
 # lc-surprisal
 Lossy-context surprisal experiments and simulations.
 
-This repository contains Python 3 code for replicating experiments and simulations for lossy-context surprisal, introduced in [Futrell & Levy (2017, EACL)](http://aclweb.org/anthology/E/E17/E17-1065.pdf) and fleshed out in [Futrell, Gibson & Levy (2020, Cognitive Science)](http://socsci.uci.edu/~rfutrell/papers/futrell2020lossy.pdf).
+This repository contains Python 3 code for replicating experiments and simulations for lossy-context surprisal, introduced in [Futrell & Levy (2017, EACL)](http://aclweb.org/anthology/E/E17/E17-1065) and fleshed out in [Futrell, Gibson & Levy (2020, Cognitive Science)](http://socsci.uci.edu/~rfutrell/papers/futrell2020lossy.pdf).
 
 ```
 @article{futrell2020lossy,
