@@ -6,7 +6,7 @@ This repository contains Python 3 code for replicating experiments and simulatio
 ```
 @article{futrell2020lossy,
 author={Richard Futrell and Edward Gibson and Roger P. Levy},
-title={Lossy-context surprisal: An information-theoretic model of memory effects in sentence proecssing},
+title={Lossy-context surprisal: An information-theoretic model of memory effects in sentence processing},
 year={2020},
 journal={Cognitive Science},
 volume={44},
